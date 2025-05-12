@@ -1,4 +1,4 @@
-# 🚘 Vehicle Number Plate Detection using OCR & OpenCV
+# 🚘Number Plate Detection 
 
 This project demonstrates automatic vehicle number plate detection using **Python**, **OpenCV**, and **Tesseract OCR**. The system processes an uploaded image, identifies the number plate region, and extracts text from it using Optical Character Recognition (OCR).
 
